@@ -1,0 +1,1 @@
+cmd_/home/pi/CSCE498/perf_counter.ko := ld -EL -r  -T /usr/src/linux-headers-3.10-3-common/scripts/module-common.lds --build-id  -o /home/pi/CSCE498/perf_counter.ko /home/pi/CSCE498/perf_counter.o /home/pi/CSCE498/perf_counter.mod.o
